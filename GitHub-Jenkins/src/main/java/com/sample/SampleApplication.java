@@ -11,7 +11,7 @@ public class SampleApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "This is GitHub Jenkins Integration";
+		return "This is Eclipse GitHub Jenkins Maven SonarQube Integration!!!!!";
 	}
 	
 	public static void main(String[] args) {
